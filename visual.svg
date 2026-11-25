@@ -1,18 +1,384 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
-  <title>Demonstration — invented values: 20, 35 and 50</title>
-  <rect width="1920" height="1080" fill="#f7f6f2"/>
-  <g fill="#202724" font-family="sans-serif">
-    <text x="120" y="140" font-size="58">DEMONSTRATION — INVENTED DATA</text>
-    <text x="120" y="210" font-size="32">Replace this visual with your group's own work.</text>
-  </g>
-  <g fill="#116964">
-    <rect x="300" y="650" width="300" height="200"/>
-    <rect x="800" y="500" width="300" height="350"/>
-    <rect x="1300" y="350" width="300" height="500"/>
-  </g>
-  <g fill="#202724" font-family="sans-serif" font-size="42" text-anchor="middle">
-    <text x="450" y="920">20</text>
-    <text x="950" y="920">35</text>
-    <text x="1450" y="920">50</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 924 1308" width="924" height="1308" font-family="Inter, Helvetica, Arial, sans-serif">
+<rect width="924" height="1308" fill="#13213d"/>
+<g font-size="8" font-weight="700" letter-spacing="1" fill="#5be8c1"><text x="95" y="89">FAMILY</text><text x="258" y="89">TECHNIQUE</text><text x="442" y="89">EXAMPLES FOUND</text></g>
+<g font-size="7" fill="#8e99b3"><text x="139" y="89">how it fools the AI</text><text x="317" y="89">the method used</text></g>
+<path d="M75 673 C85.0 673 85.0 187 95 187" fill="none" stroke="#ec6f98" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 187 C236.5 187 236.5 152 258 152" fill="none" stroke="#ec6f98" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 152 C426.5 152 426.5 111.0 442 111.0" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 121.1 442 121.1" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 131.2 442 131.2" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 141.3 442 141.3" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 151.4 442 151.4" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 161.5 442 161.5" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 171.6 442 171.6" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 181.7 442 181.7" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 152 C426.5 152 426.5 191.8 442 191.8" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M442 111.0 C520.0 111.0 520.0 111.0 598 111.0" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 121.1 C520.0 121.1 520.0 121.1 598 121.1" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 131.2 C520.0 131.2 520.0 131.2 598 131.2" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 141.3 C520.0 141.3 520.0 141.3 598 141.3" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 151.4 C520.0 151.4 520.0 151.4 598 151.4" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 161.5 C520.0 161.5 520.0 161.5 598 161.5" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 171.6 C520.0 171.6 520.0 171.6 598 171.6" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 181.7 C520.0 181.7 520.0 181.7 598 181.7" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 191.8 C520.0 191.8 520.0 191.8 598 191.8" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 111.0 C676.0 111.0 676.0 111.0 754 111.0" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 121.1 C676.0 121.1 676.0 121.1 754 121.1" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 131.2 C676.0 131.2 676.0 131.2 754 131.2" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 141.3 C676.0 141.3 676.0 141.3 754 141.3" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 151.4 C676.0 151.4 676.0 151.4 754 151.4" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 161.5 C676.0 161.5 676.0 161.5 754 161.5" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M598 171.6 C676.0 171.6 676.0 171.6 754 171.6" fill="none" stroke="#ec6f98" stroke-opacity="0.55" stroke-width="0.8"/>
+<circle cx="442" cy="111.0" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="121.1" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="131.2" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="141.3" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="151.4" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="161.5" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="171.6" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="181.7" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="191.8" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="111.0" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="121.1" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="131.2" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="141.3" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="151.4" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="161.5" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="171.6" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="181.7" r="2.6" fill="#ec6f98"/>
+<circle cx="598" cy="191.8" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="111.0" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="121.1" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="131.2" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="141.3" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="151.4" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="161.5" r="2.6" fill="#ec6f98"/>
+<circle cx="754" cy="171.6" r="2.6" fill="#ec6f98"/>
+<path d="M215 187 C236.5 187 236.5 232 258 232" fill="none" stroke="#ec6f98" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 232 C426.5 232 426.5 217.5 442 217.5" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 232 C426.5 232 426.5 227.6 442 227.6" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 232 C426.5 232 426.5 237.7 442 237.7" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 232 C426.5 232 426.5 247.8 442 247.8" fill="none" stroke="#ec6f98" stroke-opacity="0.65" stroke-width="0.9"/>
+<circle cx="442" cy="217.5" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="227.6" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="237.7" r="2.6" fill="#ec6f98"/>
+<circle cx="442" cy="247.8" r="2.6" fill="#ec6f98"/>
+<path d="M75 673 C85.0 673 85.0 412 95 412" fill="none" stroke="#e98a76" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 412 C236.5 412 236.5 321 258 321" fill="none" stroke="#e98a76" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 321 C426.5 321 426.5 286.0 442 286.0" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 296.1 442 296.1" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 306.2 442 306.2" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 316.3 442 316.3" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 326.4 442 326.4" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 336.5 442 336.5" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 346.6 442 346.6" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 321 C426.5 321 426.5 356.7 442 356.7" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M442 286.0 C520.0 286.0 520.0 286.0 598 286.0" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 296.1 C520.0 296.1 520.0 296.1 598 296.1" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 306.2 C520.0 306.2 520.0 306.2 598 306.2" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 316.3 C520.0 316.3 520.0 316.3 598 316.3" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 326.4 C520.0 326.4 520.0 326.4 598 326.4" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 336.5 C520.0 336.5 520.0 336.5 598 336.5" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 346.6 C520.0 346.6 520.0 346.6 598 346.6" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 356.7 C520.0 356.7 520.0 356.7 598 356.7" fill="none" stroke="#e98a76" stroke-opacity="0.55" stroke-width="0.8"/>
+<rect x="439.5" y="283.5" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="293.6" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="303.7" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="313.8" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="323.9" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="334.0" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="344.1" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="354.2" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="283.5" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="293.6" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="303.7" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="313.8" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="323.9" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="334.0" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="344.1" width="5" height="5" fill="#e98a76"/>
+<rect x="595.5" y="354.2" width="5" height="5" fill="#e98a76"/>
+<path d="M215 412 C236.5 412 236.5 417 258 417" fill="none" stroke="#e98a76" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 417 C426.5 417 426.5 382.0 442 382.0" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 392.1 442 392.1" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 402.2 442 402.2" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 412.3 442 412.3" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 422.4 442 422.4" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 432.5 442 432.5" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 442.6 442 442.6" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 417 C426.5 417 426.5 452.7 442 452.7" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<circle cx="442" cy="382.0" r="2.6" fill="#e98a76"/>
+<circle cx="442" cy="392.1" r="2.6" fill="#e98a76"/>
+<circle cx="442" cy="402.2" r="2.6" fill="#e98a76"/>
+<circle cx="442" cy="412.3" r="2.6" fill="#e98a76"/>
+<circle cx="442" cy="422.4" r="2.6" fill="#e98a76"/>
+<circle cx="442" cy="432.5" r="2.6" fill="#e98a76"/>
+<circle cx="442" cy="442.6" r="2.6" fill="#e98a76"/>
+<rect x="439.5" y="450.2" width="5" height="5" fill="#e98a76"/>
+<path d="M215 412 C236.5 412 236.5 503 258 503" fill="none" stroke="#e98a76" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 503 C426.5 503 426.5 478.0 442 478.0" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 503 C426.5 503 426.5 488.1 442 488.1" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 503 C426.5 503 426.5 498.2 442 498.2" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 503 C426.5 503 426.5 508.3 442 508.3" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 503 C426.5 503 426.5 518.4 442 518.4" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 503 C426.5 503 426.5 528.5 442 528.5" fill="none" stroke="#e98a76" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="475.5" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="485.6" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="495.7" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="505.8" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="515.9" width="5" height="5" fill="#e98a76"/>
+<rect x="439.5" y="526.0" width="5" height="5" fill="#e98a76"/>
+<path d="M75 673 C85.0 673 85.0 606 95 606" fill="none" stroke="#e9c46a" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 606 C236.5 606 236.5 586 258 586" fill="none" stroke="#e9c46a" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 586 C426.5 586 426.5 566.0 442 566.0" fill="none" stroke="#e9c46a" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 586 C426.5 586 426.5 576.1 442 576.1" fill="none" stroke="#e9c46a" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 586 C426.5 586 426.5 586.2 442 586.2" fill="none" stroke="#e9c46a" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 586 C426.5 586 426.5 596.3 442 596.3" fill="none" stroke="#e9c46a" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 586 C426.5 586 426.5 606.4 442 606.4" fill="none" stroke="#e9c46a" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="563.5" width="5" height="5" fill="#e9c46a"/>
+<rect x="439.5" y="573.6" width="5" height="5" fill="#e9c46a"/>
+<rect x="439.5" y="583.7" width="5" height="5" fill="#e9c46a"/>
+<rect x="439.5" y="593.8" width="5" height="5" fill="#e9c46a"/>
+<rect x="439.5" y="603.9" width="5" height="5" fill="#e9c46a"/>
+<path d="M215 606 C236.5 606 236.5 637 258 637" fill="none" stroke="#e9c46a" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 637 C426.5 637 426.5 637.0 442 637.0" fill="none" stroke="#e9c46a" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="634.5" width="5" height="5" fill="#e9c46a"/>
+<path d="M75 673 C85.0 673 85.0 743 95 743" fill="none" stroke="#a3e86b" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 743 C236.5 743 236.5 715 258 715" fill="none" stroke="#a3e86b" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 715 C426.5 715 426.5 680.0 442 680.0" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 690.1 442 690.1" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 700.2 442 700.2" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 710.3 442 710.3" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 720.4 442 720.4" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 730.5 442 730.5" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 740.6 442 740.6" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 715 C426.5 715 426.5 750.7 442 750.7" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M442 680.0 C520.0 680.0 520.0 680.0 598 680.0" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 690.1 C520.0 690.1 520.0 690.1 598 690.1" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 700.2 C520.0 700.2 520.0 700.2 598 700.2" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 710.3 C520.0 710.3 520.0 710.3 598 710.3" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 720.4 C520.0 720.4 520.0 720.4 598 720.4" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 730.5 C520.0 730.5 520.0 730.5 598 730.5" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 740.6 C520.0 740.6 520.0 740.6 598 740.6" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<path d="M442 750.7 C520.0 750.7 520.0 750.7 598 750.7" fill="none" stroke="#a3e86b" stroke-opacity="0.55" stroke-width="0.8"/>
+<polygon points="442,677.0 445,682.5 439,682.5" fill="#a3e86b"/>
+<polygon points="442,687.1 445,692.6 439,692.6" fill="#a3e86b"/>
+<polygon points="442,697.2 445,702.7 439,702.7" fill="#a3e86b"/>
+<rect x="439.5" y="707.8" width="5" height="5" fill="#a3e86b"/>
+<rect x="439.5" y="717.9" width="5" height="5" fill="#a3e86b"/>
+<polygon points="442,727.5 445,733.0 439,733.0" fill="#a3e86b"/>
+<polygon points="442,737.6 445,743.1 439,743.1" fill="#a3e86b"/>
+<polygon points="442,747.7 445,753.2 439,753.2" fill="#a3e86b"/>
+<polygon points="598,677.0 601,682.5 595,682.5" fill="#a3e86b"/>
+<polygon points="598,687.1 601,692.6 595,692.6" fill="#a3e86b"/>
+<polygon points="598,697.2 601,702.7 595,702.7" fill="#a3e86b"/>
+<polygon points="598,707.3 601,712.8 595,712.8" fill="#a3e86b"/>
+<polygon points="598,717.4 601,722.9 595,722.9" fill="#a3e86b"/>
+<rect x="595.5" y="728.0" width="5" height="5" fill="#a3e86b"/>
+<polygon points="598,737.6 601,743.1 595,743.1" fill="#a3e86b"/>
+<polygon points="598,747.7 601,753.2 595,753.2" fill="#a3e86b"/>
+<path d="M215 743 C236.5 743 236.5 781 258 781" fill="none" stroke="#a3e86b" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 781 C426.5 781 426.5 781.0 442 781.0" fill="none" stroke="#a3e86b" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="778.5" width="5" height="5" fill="#a3e86b"/>
+<path d="M75 673 C85.0 673 85.0 833 95 833" fill="none" stroke="#5be8c1" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 833 C236.5 833 236.5 839 258 839" fill="none" stroke="#5be8c1" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 839 C426.5 839 426.5 824.0 442 824.0" fill="none" stroke="#5be8c1" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 839 C426.5 839 426.5 834.1 442 834.1" fill="none" stroke="#5be8c1" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 839 C426.5 839 426.5 844.2 442 844.2" fill="none" stroke="#5be8c1" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 839 C426.5 839 426.5 854.3 442 854.3" fill="none" stroke="#5be8c1" stroke-opacity="0.65" stroke-width="0.9"/>
+<polygon points="442,821.0 445,826.5 439,826.5" fill="#5be8c1"/>
+<polygon points="442,831.1 445,836.6 439,836.6" fill="#5be8c1"/>
+<polygon points="442,841.2 445,846.7 439,846.7" fill="#5be8c1"/>
+<polygon points="442,851.3 445,856.8 439,856.8" fill="#5be8c1"/>
+<path d="M75 673 C85.0 673 85.0 922 95 922" fill="none" stroke="#6bd9ea" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 922 C236.5 922 236.5 922 258 922" fill="none" stroke="#6bd9ea" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 922 C426.5 922 426.5 892.0 442 892.0" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 922 C426.5 922 426.5 902.1 442 902.1" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 922 C426.5 922 426.5 912.2 442 912.2" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 922 C426.5 922 426.5 922.3 442 922.3" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 922 C426.5 922 426.5 932.4 442 932.4" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 922 C426.5 922 426.5 942.5 442 942.5" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 922 C426.5 922 426.5 952.6 442 952.6" fill="none" stroke="#6bd9ea" stroke-opacity="0.65" stroke-width="0.9"/>
+<polygon points="442,889.0 445,894.5 439,894.5" fill="#6bd9ea"/>
+<polygon points="442,899.1 445,904.6 439,904.6" fill="#6bd9ea"/>
+<polygon points="442,909.2 445,914.7 439,914.7" fill="#6bd9ea"/>
+<polygon points="442,919.3 445,924.8 439,924.8" fill="#6bd9ea"/>
+<polygon points="442,929.4 445,934.9 439,934.9" fill="#6bd9ea"/>
+<polygon points="442,939.5 445,945.0 439,945.0" fill="#6bd9ea"/>
+<polygon points="442,949.6 445,955.1 439,955.1" fill="#6bd9ea"/>
+<path d="M75 673 C85.0 673 85.0 1102 95 1102" fill="none" stroke="#6ba3ee" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 1102 C236.5 1102 236.5 1026 258 1026" fill="none" stroke="#6ba3ee" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 1026 C426.5 1026 426.5 991.0 442 991.0" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1001.1 442 1001.1" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1011.2 442 1011.2" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1021.3 442 1021.3" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1031.4 442 1031.4" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1041.5 442 1041.5" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1051.6 442 1051.6" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1026 C426.5 1026 426.5 1061.7 442 1061.7" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="988.5" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="998.6" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1008.7" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1018.8" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1028.9" width="5" height="5" fill="#6ba3ee"/>
+<polygon points="442,1038.5 445,1044.0 439,1044.0" fill="#6ba3ee"/>
+<rect x="439.5" y="1049.1" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1059.2" width="5" height="5" fill="#6ba3ee"/>
+<path d="M215 1102 C236.5 1102 236.5 1117 258 1117" fill="none" stroke="#6ba3ee" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 1117 C426.5 1117 426.5 1087.0 442 1087.0" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1117 C426.5 1117 426.5 1097.1 442 1097.1" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1117 C426.5 1117 426.5 1107.2 442 1107.2" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1117 C426.5 1117 426.5 1117.3 442 1117.3" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1117 C426.5 1117 426.5 1127.4 442 1127.4" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1117 C426.5 1117 426.5 1137.5 442 1137.5" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<path d="M411 1117 C426.5 1117 426.5 1147.6 442 1147.6" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="1084.5" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1094.6" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1104.7" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1114.8" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1124.9" width="5" height="5" fill="#6ba3ee"/>
+<rect x="439.5" y="1135.0" width="5" height="5" fill="#6ba3ee"/>
+<polygon points="442,1144.6 445,1150.1 439,1150.1" fill="#6ba3ee"/>
+<path d="M215 1102 C236.5 1102 236.5 1177 258 1177" fill="none" stroke="#6ba3ee" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 1177 C426.5 1177 426.5 1177.0 442 1177.0" fill="none" stroke="#6ba3ee" stroke-opacity="0.65" stroke-width="0.9"/>
+<rect x="439.5" y="1174.5" width="5" height="5" fill="#6ba3ee"/>
+<path d="M75 673 C85.0 673 85.0 1225 95 1225" fill="none" stroke="#a374ec" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M215 1225 C236.5 1225 236.5 1225 258 1225" fill="none" stroke="#a374ec" stroke-opacity="0.8" stroke-width="1.1"/>
+<path d="M411 1225 C426.5 1225 426.5 1225.0 442 1225.0" fill="none" stroke="#a374ec" stroke-opacity="0.65" stroke-width="0.9"/>
+<polygon points="442,1222.0 445,1227.5 439,1227.5" fill="#a374ec"/>
+<rect x="258" y="141.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="141.5" width="153" height="21" rx="4" fill="#ec6f98" fill-opacity="0.22" stroke="#ec6f98" stroke-width="1.2"/><text x="334.5" y="155.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Asymmetry and High contrast</text>
+<rect x="258" y="221.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="221.5" width="153" height="21" rx="4" fill="#ec6f98" fill-opacity="0.22" stroke="#ec6f98" stroke-width="1.2"/><text x="334.5" y="235.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">AI-generated adversarial makeup</text>
+<rect x="95" y="171" width="120" height="32" rx="7" fill="#ec6f98"/><text x="155" y="187.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Face paint &amp; makeup</text><text x="155" y="196.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">DAZZLE MAKEUP</text>
+<rect x="258" y="310.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="310.5" width="153" height="21" rx="4" fill="#e98a76" fill-opacity="0.22" stroke="#e98a76" stroke-width="1.2"/><text x="334.5" y="324.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Masks and face coverings</text>
+<rect x="258" y="406.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="406.5" width="153" height="21" rx="4" fill="#e98a76" fill-opacity="0.22" stroke="#e98a76" stroke-width="1.2"/><text x="334.5" y="420.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Hair, beard, disguises</text>
+<rect x="258" y="492.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="492.5" width="153" height="21" rx="4" fill="#e98a76" fill-opacity="0.22" stroke="#e98a76" stroke-width="1.2"/><text x="334.5" y="506.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Glasses and stickers</text>
+<rect x="95" y="396" width="120" height="32" rx="7" fill="#e98a76"/><text x="155" y="412.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Covering the face</text><text x="155" y="421.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">OCCLUSION</text>
+<rect x="258" y="575.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="575.5" width="153" height="21" rx="4" fill="#e9c46a" fill-opacity="0.22" stroke="#e9c46a" stroke-width="1.2"/><text x="334.5" y="589.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">3D prosthetics</text>
+<rect x="258" y="626.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="626.5" width="153" height="21" rx="4" fill="#e9c46a" fill-opacity="0.22" stroke="#e9c46a" stroke-width="1.2"/><text x="334.5" y="640.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Masks and face coverings</text>
+<rect x="95" y="590" width="120" height="32" rx="7" fill="#e9c46a"/><text x="155" y="606.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Prosthetics &amp; masks</text><text x="155" y="615.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">IDENTITY / PROSTHETICS</text>
+<rect x="258" y="704.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="704.5" width="153" height="21" rx="4" fill="#a3e86b" fill-opacity="0.22" stroke="#a3e86b" stroke-width="1.2"/><text x="334.5" y="718.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Printed garments</text>
+<rect x="258" y="770.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="770.5" width="153" height="21" rx="4" fill="#a3e86b" fill-opacity="0.22" stroke="#a3e86b" stroke-width="1.2"/><text x="334.5" y="784.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Patches and stickers</text>
+<rect x="95" y="727" width="120" height="32" rx="7" fill="#a3e86b"/><text x="155" y="743.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Printed patterns</text><text x="155" y="752.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">ADVERSARIAL PATTERN</text>
+<rect x="258" y="828.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="828.5" width="153" height="21" rx="4" fill="#5be8c1" fill-opacity="0.22" stroke="#5be8c1" stroke-width="1.2"/><text x="334.5" y="842.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Fake faces on textiles</text>
+<rect x="95" y="817" width="120" height="32" rx="7" fill="#5be8c1"/><text x="155" y="833.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Decoy faces on fabric</text><text x="155" y="842.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">OVERLOAD (FALSE POSITIVES)</text>
+<rect x="258" y="911.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="911.5" width="153" height="21" rx="4" fill="#6bd9ea" fill-opacity="0.22" stroke="#6bd9ea" stroke-width="1.2"/><text x="334.5" y="925.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Thermal-reflective fabrics</text>
+<rect x="95" y="906" width="120" height="32" rx="7" fill="#6bd9ea"/><text x="155" y="922.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Heat</text><text x="155" y="931.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">THERMAL</text>
+<rect x="258" y="1015.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="1015.5" width="153" height="21" rx="4" fill="#6ba3ee" fill-opacity="0.22" stroke="#6ba3ee" stroke-width="1.2"/><text x="334.5" y="1029.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Reflective materials</text>
+<rect x="258" y="1106.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="1106.5" width="153" height="21" rx="4" fill="#6ba3ee" fill-opacity="0.22" stroke="#6ba3ee" stroke-width="1.2"/><text x="334.5" y="1120.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">IR lenses and LEDs</text>
+<rect x="258" y="1166.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="1166.5" width="153" height="21" rx="4" fill="#6ba3ee" fill-opacity="0.22" stroke="#6ba3ee" stroke-width="1.2"/><text x="334.5" y="1180.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Face projection</text>
+<rect x="95" y="1086" width="120" height="32" rx="7" fill="#6ba3ee"/><text x="155" y="1102.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Light &amp; reflections</text><text x="155" y="1111.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">OPTICAL / LIGHT / INFRARED</text>
+<rect x="258" y="1214.5" width="153" height="21" rx="4" fill="#13213d"/><rect x="258" y="1214.5" width="153" height="21" rx="4" fill="#a374ec" fill-opacity="0.22" stroke="#a374ec" stroke-width="1.2"/><text x="334.5" y="1228.4" font-size="9" font-weight="600" fill="#ffffff" text-anchor="middle">Image cloaking / software attack</text>
+<rect x="95" y="1209" width="120" height="32" rx="7" fill="#a374ec"/><text x="155" y="1225.5" font-size="10.5" font-weight="700" fill="#13213d" text-anchor="middle">Digital tricks</text><text x="155" y="1234.5" font-size="5.5" letter-spacing="0.6" fill="#13213d" fill-opacity="0.75" text-anchor="middle">DIGITAL</text>
+<text x="450" y="113.8" font-size="8.2" fill="#e8edf7">CV Dazzle makeup and hair</text>
+<text x="450" y="123.9" font-size="8.2" fill="#e8edf7">CV Dazzle makeup/hairstyling</text>
+<text x="450" y="134.0" font-size="8.2" fill="#e8edf7">High-contrast anti-surveillance makeup</text>
+<text x="450" y="144.1" font-size="8.2" fill="#e8edf7">Adversarial natural makeup</text>
+<text x="450" y="154.2" font-size="8.2" fill="#e8edf7">Avant-garde anti-face makeup</text>
+<text x="450" y="164.3" font-size="8.2" fill="#e8edf7">Asymmetric makeup</text>
+<text x="450" y="174.4" font-size="8.2" fill="#e8edf7">Tonal inversion</text>
+<text x="450" y="184.5" font-size="8.2" fill="#e8edf7">Geometric face patterns</text>
+<text x="450" y="194.6" font-size="8.2" fill="#e8edf7">Asymmetrical makeup</text>
+<text x="606" y="113.8" font-size="8.2" fill="#e8edf7">High-contrast makeup</text>
+<text x="606" y="123.9" font-size="8.2" fill="#e8edf7">Makeup</text>
+<text x="606" y="134.0" font-size="8.2" fill="#e8edf7">Hairstyle and makeup</text>
+<text x="606" y="144.1" font-size="8.2" fill="#e8edf7">Advanced cosmetics disguise</text>
+<text x="606" y="154.2" font-size="8.2" fill="#e8edf7">Special-pattern face paint</text>
+<text x="606" y="164.3" font-size="8.2" fill="#e8edf7">Subtle skin darkening</text>
+<text x="606" y="174.4" font-size="8.2" fill="#e8edf7">High-contrast skin tonal inversion</text>
+<text x="606" y="184.5" font-size="8.2" fill="#e8edf7">Angular face paint</text>
+<text x="606" y="194.6" font-size="8.2" fill="#e8edf7">Dark jaw, mouth and brow shading</text>
+<text x="762" y="113.8" font-size="8.2" fill="#e8edf7">Vertical brow marks</text>
+<text x="762" y="123.9" font-size="8.2" fill="#e8edf7">Angular facial overlays</text>
+<text x="762" y="134.0" font-size="8.2" fill="#e8edf7">Facial tattoos</text>
+<text x="762" y="144.1" font-size="8.2" fill="#e8edf7">Heavy makeup</text>
+<text x="762" y="154.2" font-size="8.2" fill="#e8edf7">Anti-surveillance makeup</text>
+<text x="762" y="164.3" font-size="8.2" fill="#e8edf7">Juggalo-style makeup</text>
+<text x="762" y="174.4" font-size="8.2" fill="#e8edf7">Contouring makeup</text>
+<text x="450" y="220.3" font-size="8.2" fill="#e8edf7">Eyeshadow</text>
+<text x="450" y="230.4" font-size="8.2" fill="#e8edf7">Natural-looking makeup</text>
+<text x="450" y="240.5" font-size="8.2" fill="#e8edf7">Adversarial makeup</text>
+<text x="450" y="250.6" font-size="8.2" fill="#e8edf7">Clown makeup</text>
+<text x="450" y="288.8" font-size="8.2" fill="#e8edf7">Homemade face masks</text>
+<text x="450" y="298.9" font-size="8.2" fill="#e8edf7">Medical/gas masks with goggles</text>
+<text x="450" y="309.0" font-size="8.2" fill="#e8edf7">Umbrellas as cover</text>
+<text x="450" y="319.1" font-size="8.2" fill="#e8edf7">Face masks</text>
+<text x="450" y="329.2" font-size="8.2" fill="#e8edf7">Umbrellas as screen</text>
+<text x="450" y="339.3" font-size="8.2" fill="#e8edf7">Face mask</text>
+<text x="450" y="349.4" font-size="8.2" fill="#e8edf7">Face covering</text>
+<text x="450" y="359.5" font-size="8.2" fill="#e8edf7">Mask</text>
+<text x="606" y="288.8" font-size="8.2" fill="#e8edf7">Acrylic cutout face shield</text>
+<text x="606" y="298.9" font-size="8.2" fill="#e8edf7">Flexible privacy shell</text>
+<text x="606" y="309.0" font-size="8.2" fill="#e8edf7">Anti-drone head cover</text>
+<text x="606" y="319.1" font-size="8.2" fill="#e8edf7">Hats and caps</text>
+<text x="606" y="329.2" font-size="8.2" fill="#e8edf7">Veils and turbans</text>
+<text x="606" y="339.3" font-size="8.2" fill="#e8edf7">Mask, hat, hoodie, sunglasses</text>
+<text x="606" y="349.4" font-size="8.2" fill="#e8edf7">Mask with distorted features</text>
+<text x="606" y="359.5" font-size="8.2" fill="#e8edf7">Balaclava or stocking mask</text>
+<text x="450" y="384.8" font-size="8.2" fill="#e8edf7">Hair alteration</text>
+<text x="450" y="394.9" font-size="8.2" fill="#e8edf7">Facial hair alteration</text>
+<text x="450" y="405.0" font-size="8.2" fill="#e8edf7">Special-shape hairstyle</text>
+<text x="450" y="415.1" font-size="8.2" fill="#e8edf7">Natural beard coverage</text>
+<text x="450" y="425.2" font-size="8.2" fill="#e8edf7">Wig</text>
+<text x="450" y="435.3" font-size="8.2" fill="#e8edf7">Fake beard/mustache</text>
+<text x="450" y="445.4" font-size="8.2" fill="#e8edf7">Hairstyle change</text>
+<text x="450" y="455.5" font-size="8.2" fill="#e8edf7">Bandaged head and face</text>
+<text x="450" y="480.8" font-size="8.2" fill="#e8edf7">Adversarial eyeglasses</text>
+<text x="450" y="490.9" font-size="8.2" fill="#e8edf7">Sunglasses</text>
+<text x="450" y="501.0" font-size="8.2" fill="#e8edf7">Glasses</text>
+<text x="450" y="511.1" font-size="8.2" fill="#e8edf7">Adversarial glasses patch</text>
+<text x="450" y="521.2" font-size="8.2" fill="#e8edf7">Glasses and sunglasses</text>
+<text x="450" y="531.3" font-size="8.2" fill="#e8edf7">Big-frame glasses and visor</text>
+<text x="450" y="568.8" font-size="8.2" fill="#e8edf7">3D-printed prosthetic</text>
+<text x="450" y="578.9" font-size="8.2" fill="#e8edf7">Prosthetic face components</text>
+<text x="450" y="589.0" font-size="8.2" fill="#e8edf7">Artificial-material disguise</text>
+<text x="450" y="599.1" font-size="8.2" fill="#e8edf7">Full-face silicone mask</text>
+<text x="450" y="609.2" font-size="8.2" fill="#e8edf7">Ping-pong balls in cheeks</text>
+<text x="450" y="639.8" font-size="8.2" fill="#e8edf7">Photorealistic face mask</text>
+<text x="450" y="682.8" font-size="8.2" fill="#e8edf7">Fake license plate print</text>
+<text x="450" y="692.9" font-size="8.2" fill="#e8edf7">Printed garments</text>
+<text x="450" y="703.0" font-size="8.2" fill="#e8edf7">T-shirt</text>
+<text x="450" y="713.1" font-size="8.2" fill="#e8edf7">Face mask</text>
+<text x="450" y="723.2" font-size="8.2" fill="#e8edf7">Neck gaiter</text>
+<text x="450" y="733.3" font-size="8.2" fill="#e8edf7">Knitwear</text>
+<text x="450" y="743.4" font-size="8.2" fill="#e8edf7">Animal pattern</text>
+<text x="450" y="753.5" font-size="8.2" fill="#e8edf7">Colorful umbrella print</text>
+<text x="606" y="682.8" font-size="8.2" fill="#e8edf7">Adversarial pattern garments</text>
+<text x="606" y="692.9" font-size="8.2" fill="#e8edf7">Anti-recognition patterned t-shirt</text>
+<text x="606" y="703.0" font-size="8.2" fill="#e8edf7">Shirt that looks like a car</text>
+<text x="606" y="713.1" font-size="8.2" fill="#e8edf7">Jacquard motif clothing</text>
+<text x="606" y="723.2" font-size="8.2" fill="#e8edf7">Asymmetrical wide silhouettes</text>
+<text x="606" y="733.3" font-size="8.2" fill="#e8edf7">Adversarial face-mask print</text>
+<text x="606" y="743.4" font-size="8.2" fill="#e8edf7">Adversarial T-shirt</text>
+<text x="606" y="753.5" font-size="8.2" fill="#e8edf7">Adversarial patch outfits</text>
+<text x="450" y="783.8" font-size="8.2" fill="#e8edf7">Face stickers</text>
+<text x="450" y="826.8" font-size="8.2" fill="#e8edf7">HyperFace decoy textile</text>
+<text x="450" y="836.9" font-size="8.2" fill="#e8edf7">Face-print textiles</text>
+<text x="450" y="847.0" font-size="8.2" fill="#e8edf7">Graphic textile design</text>
+<text x="450" y="857.1" font-size="8.2" fill="#e8edf7">Eyes and mouth motifs</text>
+<text x="450" y="894.8" font-size="8.2" fill="#e8edf7">Silver thermal garment</text>
+<text x="450" y="904.9" font-size="8.2" fill="#e8edf7">Silver thermal burqa</text>
+<text x="450" y="915.0" font-size="8.2" fill="#e8edf7">Anti-drone thermal hoodie</text>
+<text x="450" y="925.1" font-size="8.2" fill="#e8edf7">Metallized thermal fabric</text>
+<text x="450" y="935.2" font-size="8.2" fill="#e8edf7">Crushed silver coating</text>
+<text x="450" y="945.3" font-size="8.2" fill="#e8edf7">Heat-reflective space blanket</text>
+<text x="450" y="955.4" font-size="8.2" fill="#e8edf7">Thermal-reflective fabric</text>
+<text x="450" y="993.8" font-size="8.2" fill="#e8edf7">Retroreflective flash scarf</text>
+<text x="450" y="1003.9" font-size="8.2" fill="#e8edf7">Glasses with a reflective material</text>
+<text x="450" y="1014.0" font-size="8.2" fill="#e8edf7">Reflective tape on goggles</text>
+<text x="450" y="1024.1" font-size="8.2" fill="#e8edf7">Anti-paparazzi scarf</text>
+<text x="450" y="1034.2" font-size="8.2" fill="#e8edf7">IR-blocking reflective glasses</text>
+<text x="450" y="1044.3" font-size="8.2" fill="#e8edf7">Anti-paparazzi clothing</text>
+<text x="450" y="1054.4" font-size="8.2" fill="#e8edf7">Photochromic reflective glasses</text>
+<text x="450" y="1064.5" font-size="8.2" fill="#e8edf7">Reflective tape on face</text>
+<text x="450" y="1089.8" font-size="8.2" fill="#e8edf7">Infrared-reflective lenses</text>
+<text x="450" y="1099.9" font-size="8.2" fill="#e8edf7">IR-reactive elements</text>
+<text x="450" y="1110.0" font-size="8.2" fill="#e8edf7">Laser pointers</text>
+<text x="450" y="1120.1" font-size="8.2" fill="#e8edf7">Near-infrared privacy visor</text>
+<text x="450" y="1130.2" font-size="8.2" fill="#e8edf7">LED lights at cameras</text>
+<text x="450" y="1140.3" font-size="8.2" fill="#e8edf7">IR-reflective mask and glasses</text>
+<text x="450" y="1150.4" font-size="8.2" fill="#e8edf7">Hoodie with IR LEDs</text>
+<text x="450" y="1179.8" font-size="8.2" fill="#e8edf7">Wearable face projector</text>
+<text x="450" y="1227.8" font-size="8.2" fill="#e8edf7">Facial camouflage suggestion tool</text>
+<circle cx="41" cy="673" r="34" fill="#0f1a33" stroke="#5be8c1" stroke-width="2"/>
+<text x="41" y="671" font-size="6.6" font-weight="700" fill="#5be8c1" text-anchor="middle" letter-spacing="0.3">CAMOUFLAGE</text><text x="41" y="681" font-size="5.5" fill="#8e99b3" text-anchor="middle" letter-spacing="0.5">VS. THE AI</text>
+<g font-size="8" fill="#c9d1e3"><text x="95" y="1271"><tspan font-weight="700" fill="#fff">Color</tspan> = family, it follows every branch</text><text x="309" y="1271"><tspan font-weight="700" fill="#fff">Shape</tspan> = where it is worn</text><circle cx="429" cy="1268" r="2.6" fill="#c9d1e3"/><text x="439" y="1271">make up and beauty</text><rect x="559" y="1265.5" width="5" height="5" fill="#c9d1e3"/><text x="571" y="1271">face gear</text><polygon points="694,1265 697,1270.5 691,1270.5" fill="#c9d1e3"/><text x="704" y="1271">garments and fabrics</text></g>
 </svg>
