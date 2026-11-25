@@ -1,5 +1,5 @@
 ---
-title: Camouflage Against Facial Recognition: Material Strategies to Interfere with AI Surveillance
+title: "Camouflage Against Facial Recognition: Material Strategies to Interfere with AI Surveillance"
 
 authors: Elena Nobis - Giulia Giussani 
 ---
